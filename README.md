@@ -1,4 +1,4 @@
-# 🤓 Welcome To "Dan The Dork's" Web Portfolio!
+# 🤓 Welcome To qp's Web Portfolio!
 [![Github Official Sponsor](https://img.shields.io/badge/GitHub%20Official%20Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](#)
 [![Micro Recognised Developer](https://img.shields.io/badge/GitHub%20Official%20Developer-30363D?logo=devdotto&logoColor=FFD700)](#) * 
 ![]( https://img.shields.io/badge/Profile_Views-8,000+-green)
@@ -11,7 +11,7 @@
 class Dork:
 
     def __init__(self):
-        self.name = "Dan"
+        self.name = "qp"
         self.role = "Code Lover"
         self.language_spoken = ["en_US"]
 
@@ -19,7 +19,7 @@ class Dork:
         print("Please Check Out My Slop Repo Web Apps! (ChocoHertz, RetroPal, CodeNest, etc.)")  
 
 
-me = 7dny()
+me = eiqp()
 me.say_hi()
 ```
 #
