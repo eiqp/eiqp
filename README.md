@@ -12,14 +12,14 @@ class Dork:
 
     def __init__(self):
         self.name = "Dan"
-        self.role = "Dorky Code Lover"
+        self.role = "Code Lover"
         self.language_spoken = ["en_US"]
 
     def say_hi(self):
-        print("Please Check Out My "AI Slop" Repo Web Apps! (ChocoHertz, RetroPal, CodeNest, etc.)")  
+        print("Please Check Out My Slop Repo Web Apps! (ChocoHertz, RetroPal, CodeNest, etc.)")  
 
 
-me = DorkyCodeLover()
+me = 7dny()
 me.say_hi()
 ```
 #
